@@ -1,0 +1,5 @@
+{
+  "name": "MST-ultimate Solar Panel Management",
+  "description": "An offline-first PWA for managing solar panel installations, featuring AI-powered automation, command bar, data import, and insights to streamline project tracking and worker management.",
+  "requestFramePermissions": []
+}
